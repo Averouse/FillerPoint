@@ -15,5 +15,6 @@ This is Code is Good, Not Like Some Code.
 - 🔄 Data Sync (Sync your data accross session or devices)
 
 🛠️ Tech Stack
-- HTML5
+- HTML
 - CSS
+- JavaScript
