@@ -9,3 +9,4 @@ This is Code is Good, Not Like Some Code.
 
 ✨ Features
 - User Authentication (Secured login system)
+- Upload
