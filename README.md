@@ -30,3 +30,13 @@ To run the application locally:
     - Use a local development server like VS Code's Live Server Extension
 
 📁 Folder Structure
+FillerPoint/
+│
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── main.js
+├── assets/
+│   └── (images, icons, etc.)
+└── README.md
