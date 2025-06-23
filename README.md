@@ -26,4 +26,4 @@ To run the application locally:
     git clone <https://github.com/Averouse/FillerPoint.git>
 
 2. Open the folder in your browser:
-    - You can simply double-click on index.html
+    - You can simply double-click on index.html, or
