@@ -11,4 +11,4 @@ This is Code is Good, Not Like Some Code.
 - User Authentication (Secured login system)
 - Upload Functionality (Easily upload forms or files)
 - Form Filler (Fill forms directly in the browser)
-- PDF Export (Export)
+- PDF Export (Export filled forms as downloadable)
