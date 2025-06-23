@@ -16,3 +16,4 @@ This is Code is Good, Not Like Some Code.
 
 🛠️ Tech Stack
 - HTML5
+- CSS
