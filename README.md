@@ -8,8 +8,9 @@ This is Code is Good, Not Like Some Code.
 (Optional: Add link here if hosted on GitHub Pages)
 
 ✨ Features
-- User Authentication (Secured login system)
+- 🔐 User Authentication (Secured login system)
 - Upload Functionality (Easily upload forms or files)
 - Form Filler (Fill forms directly in the browser)
 - PDF Export (Export filled forms as downloadable PDFs)
 - Data Sync (Sync your data accross session or devices)
+
