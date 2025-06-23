@@ -2,4 +2,4 @@
 
 This is Code is Good, Not Like Some Code.
 
-**FillerPoint** is a web application designed to simplify the process
+**FillerPoint** is a web application designed to simplify the process of filling
