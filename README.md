@@ -14,3 +14,4 @@ This is Code is Good, Not Like Some Code.
 - 📄 PDF Export (Export filled forms as downloadable PDFs)
 - 🔄 Data Sync (Sync your data accross session or devices)
 
+🛠️ Tech Stack
