@@ -21,3 +21,4 @@ This is Code is Good, Not Like Some Code.
 
 🚀 Getting Started
 To run the application locally:
+1. Clone
