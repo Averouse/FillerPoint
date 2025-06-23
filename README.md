@@ -20,4 +20,4 @@ This is Code is Good, Not Like Some Code.
 - JavaScript
 
 🚀 Getting Started
-To run
+To run the application locally:
