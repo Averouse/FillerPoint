@@ -27,3 +27,4 @@ To run the application locally:
 
 2. Open the folder in your browser:
     - You can simply double-click on index.html, or
+    - Use
