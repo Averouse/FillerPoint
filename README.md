@@ -40,3 +40,5 @@ FillerPoint/
 ├── assets/
 │   └── (images, icons, etc.)
 └── README.md
+
+🎓 Project Purpose
