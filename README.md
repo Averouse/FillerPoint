@@ -42,4 +42,4 @@ FillerPoint/
 └── README.md
 
 🎓 Project Purpose
-This project was created 
+This project was created as part of
