@@ -42,4 +42,4 @@ FillerPoint/
 └── README.md
 
 🎓 Project Purpose
-This project was created as part of a school assignment but has been 
+This project was created as part of a school assignment but has been designed with 
