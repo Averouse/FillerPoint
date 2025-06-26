@@ -46,3 +46,4 @@ This project was created as part of a school assignment but has been designed wi
 Fillerpoint demonstrates core web development skills while offering practical funtionality, making it useful
 as both a product prototype and a learning resource.
 
+📜 License
