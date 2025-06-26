@@ -47,4 +47,4 @@ Fillerpoint demonstrates core web development skills while offering practical fu
 as both a product prototype and a learning resource.
 
 📜 License
-This project is licenced under the
+This project is licenced under the MIT License
