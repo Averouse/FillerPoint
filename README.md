@@ -45,3 +45,4 @@ FillerPoint/
 This project was created as part of a school assignment but has been designed with real-world use in mind.
 Fillerpoint demonstrates core web development skills while offering practical funtionality, making it useful
 as both a product prototype and a learning resource.
+
