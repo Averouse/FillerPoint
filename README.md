@@ -48,3 +48,4 @@ as both a product prototype and a learning resource.
 
 📜 License
 This project is licenced under the MIT License
+
