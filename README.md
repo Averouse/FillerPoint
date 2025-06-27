@@ -51,3 +51,4 @@ This project is licenced under the MIT License
 
 🤝 Contributions
 Contributions,  feedback, and ideas are welcome!
+Feel free
