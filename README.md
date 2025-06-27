@@ -50,4 +50,4 @@ as both a product prototype and a learning resource.
 This project is licenced under the MIT License
 
 🤝 Contributions
-Contributions,  feedback
+Contributions,  feedback, and ideas are welcome!
